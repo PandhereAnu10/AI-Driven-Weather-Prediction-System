@@ -62,6 +62,11 @@ To evaluate the forecast accuracy, we calculate the Mean Absolute Error (MAE), c
 ## Results
 The final plot displays actual and predicted CME event occurrences, helping assess the model’s accuracy.
 
+![image](https://github.com/user-attachments/assets/5e330ed5-7d6c-4f17-b4c9-e5fa7534eedc)
+![image](https://github.com/user-attachments/assets/0e9cc6e6-eeb2-43a0-8ebf-c203b89d027d)
+
+<br>
+
 ## LICENSE
 
 ```
